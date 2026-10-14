@@ -1,2 +1,1 @@
-# gittrial
-this is for learning git basics
+after cloning, this is the new text!
